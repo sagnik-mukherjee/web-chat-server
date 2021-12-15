@@ -1,0 +1,62 @@
+arguments =  6 ['client_test_1.py', 'localhost', '3583', 'user2', 'pwdB', 'hello']
+
+
+ test1 --------------------
+<html>
+<body>
+<h1>Login Page for CS352</h1>
+<p>
+  Welcome! Enter Credentials : 
+<p>
+<form action="/" method="post">
+    <p>Enter Username : </p>
+    <input type="text" name="username">
+    <p>Enter Password : </p>
+    <input type="text" name="password">
+    <p></p>
+    <input type="submit" value="Login">
+</form>
+</body>
+</html>
+
+
+ test2--------------------
+<html>
+<body>
+<h1>Chat Page for CS352</h1>
+<p>
+  Chat Space : 
+<p>
+<div id="chat-window">
+</div>
+<form action="/" method="post">
+    <p>Enter Message : </p>
+    <input type="text" name="message">
+    <p></p>
+    <input type="submit" value="Enter">
+</form>
+</body>
+</html>
+
+
+ test3--------------------
+<html>
+<body>
+<h1>Chat Page for CS352</h1>
+<p>
+  Chat Space : 
+<p>
+<div id="chat-window">
+</div>
+<form action="/" method="post">
+    <p>Enter Message : </p>
+    <input type="text" name="message">
+    <p></p>
+    <input type="submit" value="Enter">
+</form>
+</body>
+</html>
+
+
+ test4--------------------
+<html><body><h1>Chat Page for CS352</h1><p>  Chat Space : <p><div id="chat-window"><p>user2 : hello%21+how+are+you%21</p><p>user2 : hello%21+how+are+you%21</p><p>user2 : hello</p><p>user2 : hello</p></div><form action="/" method="post">    <p>Enter Message : </p>    <input type="text" name="message">    <p></p>    <input type="submit" value="Enter"></form></body></html>
