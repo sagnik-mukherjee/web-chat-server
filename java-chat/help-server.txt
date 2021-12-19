@@ -1,8 +1,0 @@
-Run methods : 
-
-------------------------------------------------------------
-Step1 : javac HTTPChatServer.java
-Step2 : java HTTPChatServer <port>
-Example : java HTTPChatServer 5050
-
-------------------------------------------------------------
